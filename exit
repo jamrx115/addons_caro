@@ -1,0 +1,1834 @@
+[33mcommit 7825a33076be2829f1e13a7ccb388b180e340d7e[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Thu Oct 3 13:56:59 2019 -0500
+
+    Ajuste de fórmulas ciclo III colombia
+
+[33mcommit 3d25d8ed86617b2de72b6ec6a199ee8826dbe8db[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue Aug 20 11:32:57 2019 -0500
+
+    Reporte/Desprendible de pago de vacaciones Colombia
+
+[33mcommit ee465acbc9de8ed0a7d7be8faac87aa9ce76c559[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu Jul 18 16:49:55 2019 -0500
+
+    Corrección de envío de plantilla incorrecta
+
+[33mcommit 57fe2f15a611b12a2eeb73f565a970c4b768f672[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue Jun 11 09:47:31 2019 -0500
+
+    Ajuste fecha fin, Nueva función para obtener días anuales derecho vacaciones, y ocultando comentarios
+
+[33mcommit e505a9e418680f09b112cd0531a40a408b832fdd[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu Jun 6 16:19:42 2019 -0500
+
+    Actualización de reportes por contadores de días al 66 y 50 %
+
+[33mcommit b9c09ad32b0d8a4a57ee14c698053f86cb14eb8d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 23 10:17:29 2019 -0500
+
+    Ocultando campo en vista tree
+
+[33mcommit 86fffcd4c20d6f2848f89b0f1a3873f2224fd4dc[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Wed May 22 15:57:40 2019 -0500
+
+    Conteo de días trabajados año por año más ajuste de conteo de meses y redondeos
+
+[33mcommit 975fd78336de754904409486cc18e81b14163ec7[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Wed May 22 10:42:54 2019 -0500
+
+    Se agrega condicional para último año en curso y se corrige límites para rango por defecto
+
+[33mcommit 202905857e9b5bd5a3bb79defa0ab78eaf8445da[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue May 21 12:11:50 2019 -0500
+
+    Modificación de fórmula que trae datos de nóminas anteriores según parámetros, para el caso de liquidación Colombia
+
+[33mcommit 2e6e201994881316a83c2c08e8984208b2541e8e[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue May 21 10:45:03 2019 -0500
+
+    Agregando retorno por conteo de meses
+
+[33mcommit 7182f774aca8dc15b88c5805d48ce5cca0e6bfa6[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue May 21 10:14:11 2019 -0500
+
+    Actualización para regla liquidación Colombia, de fórmula que trae la cantidad de días y salario base del último semestre y último año trabajado
+
+[33mcommit 87443bab157d385c9a7bf7817128b4eb7a283c7a[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Fri May 17 11:34:09 2019 -0500
+
+    Base para recargos de horas
+
+[33mcommit 9a4cef95754d87c3e3b198b918027eec800cd711[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 16 16:25:00 2019 -0500
+
+    Agregando condición para verificar fecha inicio contrato
+
+[33mcommit 7896a707b78b7966c781378fd9ffd4aa0ff3692d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 16 14:19:57 2019 -0500
+
+    Se agregan índices a fechas
+
+[33mcommit 95bc56b469559a439da11512ca722ed89bb71b1f[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 16 10:50:43 2019 -0500
+
+    Cambios iniciales a partes de horas
+
+[33mcommit c6ecdb43fa0da64d5709027af3b94c7760889487[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue May 14 16:14:32 2019 -0500
+
+    Verificando no cruces de fechas en partes de horas
+
+[33mcommit ffb7bfae71bd8c1bc8fdc2baeaca99ee7c54b390[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Mon May 13 11:17:38 2019 -0500
+
+    Modificaciones a partes de horas para lectura de horas extras o recargos en nómina
+
+[33mcommit e86f9ef7f29f234964ac949fb8f07cc68b62046d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Mon May 13 11:15:54 2019 -0500
+
+    Agregando campo para aplicar o no horas recargos desde contrato
+
+[33mcommit f9d9274fea0cba1da8bb620a4f2b9728dc44633d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Fri May 10 11:47:24 2019 -0500
+
+    Separación de personalizaciones para proyectos - partes de horas
+
+[33mcommit f1550a738279feb51e878d21042ca550e787922d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 9 15:20:28 2019 -0500
+
+    Agregando nueva plantilla para nóminas masivas Colombia
+
+[33mcommit 4b9e0b00680cac88c55ce6f11a9a1c7704112cd4[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Wed May 8 09:23:15 2019 -0500
+
+    Modificación de regla que trae datos de la quincena anterior
+
+[33mcommit e6791ed122e9ce10c85b0049df934de7932379d4[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Tue May 7 12:00:27 2019 -0500
+
+    Agregando booleano para descuento por embargo
+
+[33mcommit ad8c9119dfbf76ea7e40e06a538971a53d7a24c4[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Mon May 6 15:18:25 2019 -0500
+
+    Cambios de visibilidad y cambio de tipo entero por float
+
+[33mcommit fc909ae7310f977da60d1dd68b383ab15d8ff5b7[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Fri May 3 17:11:17 2019 -0500
+
+    Se agrega permisos de visualización a campo tipo de evaluación
+
+[33mcommit 9c2fdd4c759ecb9c10275368ed50eb9ee8cf4ea8[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Fri May 3 16:08:40 2019 -0500
+
+    Actualizando recibos de pago para descartar símbolo pesos en recibos de pago colombia (días trabajados)
+
+[33mcommit 218a8d21b1a53517bd31ac11160e8256756ca83d[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Fri May 3 10:10:23 2019 -0500
+
+    Corrección reglas de conteo de días y salarios
+
+[33mcommit 1c1fd31b00b9b99e503d4b9e874e7a9a53c32518[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 2 17:15:48 2019 -0500
+
+    Agregando nota aclaratoria para que se tenga en cuenta valor AFC como descontable mensual
+
+[33mcommit 44218f7aace667628424bcfc3dd9bb760c399dd1[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 2 14:25:39 2019 -0500
+
+    Nuevo campo base para SS medicina prepagada
+
+[33mcommit 0663d60a831601148e46ed7d05f049eab72e58eb[m
+Author: Carolina Hernandez <chernandez@alltic.co>
+Date:   Thu May 2 11:00:04 2019 -0500
+
+    Agregando campo nuevo a contratos - pestaña RTEFTE
+
+[33mcommit 5e49b97265d2c1bbfbb67fc5105334e6df72298a[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Apr 5 10:58:06 2019 -0600
+
+    Restricción sobre botón aprobar nóminas masivas
+
+[33mcommit ab2dea8fa1f1eb958877a7101809476ac5c856fc[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Apr 5 10:13:37 2019 -0500
+
+    Cambiando visibilidad para botones confirmar y rechazar
+
+[33mcommit a5aa2bbc9f53b235cb1f160d9b3b8e95ed4b2346[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Apr 5 09:41:29 2019 -0500
+
+    Base para cambios en botones retringidos por grupos
+
+[33mcommit 6e66945f5731f98b9cad4181c89621c9637b4e93[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Apr 5 08:22:33 2019 -0600
+
+    Ajustes a configuración de nuevo perfil de acceso
+
+[33mcommit f37ec7b817ba8c4717181919e83e191bd7f77f9b[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Apr 5 09:03:39 2019 -0500
+
+    Base para nueva configuración de perfil de acceso
+
+[33mcommit c69cd0a73200fdc97b0e3407cc7f8e4369a4bd5a[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Tue Mar 26 09:49:09 2019 -0600
+
+    Agregando fechas de contrato en el desprendible para nóminas liquidación
+
+[33mcommit 984019d812d59e7d86a719cf588b2316de0dbbd2[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Thu Mar 21 09:00:58 2019 -0600
+
+    Cambio de formato de fechas para cálculo
+
+[33mcommit 93bdae82ce3e9be3e17d501ecea82239aceb3d86[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Thu Mar 21 09:38:24 2019 -0500
+
+    Ajuste de fecha inicial para días pendientes aguinaldo y bono 14
+
+[33mcommit 28d19fcc2096336dd7dca0e439f95b2d1ddb975c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Mar 13 18:11:32 2019 -0500
+
+    Libro de salarios año en curso
+
+[33mcommit 23069cb727be379bd3d827aa71a976cb031f3041[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Mar 13 10:40:20 2019 -0500
+
+    Corrección de fechas liquidación
+
+[33mcommit 7e59e7c233efd08a57284dbba2cec7d9ff49cc12[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 12 09:12:05 2019 -0500
+
+    Cambios en vista lista para facilidad de comprensión
+
+[33mcommit c7ca4482e719fe75956b7ee72572a45342d67996[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Mar 8 14:43:11 2019 -0500
+
+    Tilde
+
+[33mcommit cd4114d7b6df17daa7c300a3439d1d467dbaea33[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Mar 8 14:39:18 2019 -0500
+
+    Modificaciones a nuevos campos para costos
+
+[33mcommit 92ce1d38a5ade3ec057dce45ee487496915822a3[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Mar 8 14:24:24 2019 -0500
+
+    Eliminando comentarios log
+
+[33mcommit 12a463df9a969c9f0e99799766c3dfb24b2f79e6[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 17:12:04 2019 -0500
+
+    Cambios a PDF nóminas pagadas
+
+[33mcommit 50c42793472b51548c58c1808578c106a2305b0a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 12:13:47 2019 -0500
+
+    Borrando versión PDF reporte mintrab - menu
+
+[33mcommit b1dd287decd1b56b6e7af43cc7117614c5e0b267[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 12:03:10 2019 -0500
+
+    Borrando versión PDF reporte mintrab
+
+[33mcommit 4405aa14deac3bdd69e81969c109f3147bec4c0f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 11:59:31 2019 -0500
+
+    Actualización de libro de salarios - nombre mes
+
+[33mcommit e392bbc1827d3e77a116a38c5352bc2fbe2db120[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 11:54:54 2019 -0500
+
+    Actualización de libro de salarios y logs
+
+[33mcommit a9a4323a811de0ac01dbfbefcd3920b53f2f6db9[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Mar 5 10:26:41 2019 -0500
+
+    Actualizaciones a recibo de pago nómina
+
+[33mcommit f4940afb60ae8136b821e7b1b8e5c88cedab3f14[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Mar 4 14:55:34 2019 -0500
+
+    Modificando herencias de vistas y dependencia de datos de prueba para ver modificación a hora por defecto quemada
+
+[33mcommit f99606ce797d3d45c1370d4fe1ab924dc79f7b19[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Mar 4 12:00:19 2019 -0500
+
+    Ocultando pie de página y poniendo moneda a las filas - desprendible de nómina
+
+[33mcommit af0e03b2d6070157177b390a0b7a342ba5a7331d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Mar 4 11:01:44 2019 -0500
+
+    Modificando vista tree ausencias
+
+[33mcommit b6a309c44e9a3b3ed968dac03b382575488d12fe[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Mar 1 18:40:29 2019 -0500
+
+    Corrección de fórmula comisiones primas - agregando mensajes log
+
+[33mcommit 7d8621ba548f0c59401bf903645a590adb14d1d9[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Mar 1 18:07:36 2019 -0500
+
+    Corrección de fórmula comisiones primas
+
+[33mcommit 8f03105bc33a551967aec1b4b2575008a1c4c0b0[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Feb 28 11:19:30 2019 -0500
+
+    Actualizando alerta visas y certificaciones a 270 días
+
+[33mcommit 64e1b960c4f4f27eac8233e99147ccf10c9cf34e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Feb 28 10:52:28 2019 -0500
+
+    Actualizando límite para pasaportes a 270 días
+
+[33mcommit 182122a2465bc4874452fa8d5c34ed72ca01b3e2[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Feb 28 08:55:13 2019 -0500
+
+    Actualizando comentarios sobre alertas
+
+[33mcommit 71259b2fceb27dbb0ed8af36323311cc534e0899[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Feb 27 08:58:31 2019 -0500
+
+    Corrección jefes de departamento
+
+[33mcommit 887cad44f7f1feb43f2887febd0823867b57c4ea[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Feb 26 17:05:44 2019 -0500
+
+    Actualización de condición días pendientes aguinaldo y bono14
+
+[33mcommit b9af4a5a8d2acca78a6ce7628316d9213cad42af[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 20:19:06 2019 -0500
+
+    Agregando decodificaión por tilde (faltante)
+
+[33mcommit ff406298d1fe589e9ad75ffb861c5624926fde3a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 20:07:38 2019 -0500
+
+    Actualizando para otros nombres de nóminas
+
+[33mcommit 140865b842f0ecdddd73340ec415fdf37df2abd9[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 20:07:00 2019 -0500
+
+    Cambio correos a 6 meses antes
+
+[33mcommit 0af59e0bad07c50d74ae64b4af29b3350dc68977[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 19:06:41 2019 -0500
+
+    Agregando cambio a nombre completo de nómina desde nóminas masivas
+
+[33mcommit f16a7819982ccd08033bb9c921aeb59f14c8c286[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 18:24:50 2019 -0500
+
+    Actualización de nombre de nómina corregido - corrigiendo nombre
+
+[33mcommit 20d3d241539ea397332793fa87d041188d6ecfdc[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 18:05:38 2019 -0500
+
+    Actualización de nombre de nómina corregido
+
+[33mcommit c562bfde235c373cd3af72ffdf8b101525b8479a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 15:37:08 2019 -0500
+
+    Cambios para versión PDF mintrab
+
+[33mcommit 24c7655e91b070a15a4cc2453acea6719d530e73[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 14:21:42 2019 -0500
+
+    Sumando bonos a bono 37-2001 = bono 78-89 y reformas (para libro de salarios)
+
+[33mcommit 6ef00eeea761a32f060a4272e898fcfcfc452a9a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 11:02:13 2019 -0500
+
+    Actualizando jefes
+
+[33mcommit 6bc31a21bd35855b4d92d3e1dbb91e99e5b0e43f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 25 09:05:08 2019 -0500
+
+    Congelando campo responsable
+
+[33mcommit 19f32b03b7eb32e9e9e9d4ecce6344a16f0d9892[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Feb 22 18:26:51 2019 -0500
+
+    Personalizando nombre de nómina
+
+[33mcommit f0c8c151652cc65fc8a20285425fdbaa68cd48e3[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Feb 22 16:01:21 2019 -0500
+
+    Nuevos campos a contratos para cálculo de costes
+
+[33mcommit cb06d3e892538d33025729085de9262a4ded6901[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Feb 22 08:52:21 2019 -0500
+
+    Ajuste a desprendible vcaciones
+
+[33mcommit ef5619d29b8839bff691aee7667d35870406cd0f[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Thu Feb 21 15:34:57 2019 -0600
+
+    Actualización envio de correo vencimiento certificaciones
+
+[33mcommit b8ef768bda129ec71e7c2f23e468f4be5955fdf4[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Feb 21 14:50:33 2019 -0500
+
+    Nuevas alertas empleado y certificaciones
+
+[33mcommit bafec7443d7880881d4dedae4b8762da9e0eeae1[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Feb 20 18:37:17 2019 -0500
+
+    Cambiando aprobación masiva de nóminas desde borrador a en espera
+
+[33mcommit bcf6c7769d39f247d9be4e5d5acf93a145e9d9c5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Feb 20 16:49:58 2019 -0500
+
+    Actualizaciones a desprendible nómina
+
+[33mcommit be8446815e0fc7243c1185fe4c9bd3d95f7ee437[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Feb 15 10:47:16 2019 -0500
+
+    Reporte nóminas pagadas en PDF
+
+[33mcommit 3fdea11fc1a341f2937be40f8d0f7f8b78855190[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Feb 14 10:23:28 2019 -0500
+
+    Eliminando el campo 'confirmado por' del desprendible o constancia de ausencias
+
+[33mcommit e4a5d4d2bb09105aaf223928552e1cb02ead7236[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Feb 12 10:59:36 2019 -0500
+
+    Modificando reporte de nóminas - pagadas a genérico
+
+[33mcommit 982326c0805a0fac43db60bc3a145aa30995be89[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 11 12:12:32 2019 -0500
+
+    Actualización a escritura de fecha de inicio de labores desde empleado
+
+[33mcommit 357aa5a6d532322c090efd5e0fc1743af5ce5c3a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 11 09:32:55 2019 -0500
+
+    Actualización para libro de salarios: año en curso por año anterior
+
+[33mcommit 36e874fb8dad870c0aa71518d02d5f1b393156d5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Feb 11 09:02:09 2019 -0500
+
+    Impidiendo error humano de no sacar las nóminas vacías
+
+[33mcommit 2a557fdf46eadffac11511705273fa6b360ac380[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Feb 6 18:52:09 2019 -0500
+
+    Reporte secundario tiquet 773
+
+[33mcommit 48e0fff18b2502e16e8af2aff4d79bc71d9dabd6[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Feb 5 10:19:20 2019 -0500
+
+    Agregando espacio para firma
+
+[33mcommit af8fb0d8a79d1374f796d6dab1525b7559dfa888[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 31 15:27:04 2019 -0500
+
+    Cambios solicitados a constancia de vacaciones
+
+[33mcommit e1b816a89db79e41bae8dd842a1a2b5ac6f9d1aa[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Jan 22 09:55:55 2019 -0500
+
+    Corrección fórmula de días
+
+[33mcommit bca63b78bceee460791cd40daecad49d546e7b9e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Jan 18 17:38:37 2019 -0500
+
+    Actualizando fórmula de días por ausencias que se cruzan con fines de semana o festivos
+
+[33mcommit f06482189875346feb1c669fbb51389d12c2b7a6[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 17 15:16:17 2019 -0500
+
+    Renombrando funcion por nombre más claro
+
+[33mcommit 45ac37f0ba586be0a114ae8d0a8433703ba63296[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 17 14:26:05 2019 -0500
+
+    Ahora se guardan los días calendario al solicitar una petición de bolsa de días
+
+[33mcommit 98230670de0d538eb76a3f1a14d48e100a4229af[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 17 11:23:32 2019 -0500
+
+    Corrección de camino para recorrer contratos hasta llegar a tipo vinculación
+
+[33mcommit eb7e7e507e4d3e2c765bce3d3a4786f5428ceebe[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 17 10:34:29 2019 -0500
+
+    Actualizando método para traer filas de nóminas ya calculadas
+
+[33mcommit c69216d033f87292c1fc00da87cb22655c29e34b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 17 09:11:48 2019 -0500
+
+    Ahora medios, y datos adicionales para rtefte son enteros
+
+[33mcommit d4da3613970cdd9edb7fc527af5b00948c257cca[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Jan 16 09:32:05 2019 -0500
+
+    Recuperando asignación de días calendario desde nómina para ausencias
+
+[33mcommit 6299beb0d67db94f28bb7e2949a1caa3dd1b0159[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Jan 15 17:32:51 2019 -0500
+
+    Ocultando sumatorias de dias en vistas tree
+
+[33mcommit 60ff995700ea4f30224f9182cf5bc6b08e747b64[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Jan 15 15:39:44 2019 -0500
+
+    Nuevos campos para retención en la fuente
+
+[33mcommit 81d25c95ccb1ef7b1f9a6a94bd7ae83c72525e09[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Jan 15 14:59:25 2019 -0500
+
+    Actualizando reporte mintrab
+
+[33mcommit 335ca5ba9035b0aa6867ce0535c7a1813ee54430[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Jan 15 11:49:49 2019 -0500
+
+    Modificando funciones para reglas liquidación
+
+[33mcommit 870506060af286d8832567a243957cb604a52e03[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Jan 11 15:09:27 2019 -0500
+
+    Agregando control de medios asuetos/festivos en diciembre
+
+[33mcommit 1e3afc89aa4a8ef7685e7f95972d4ec43908fea9[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jan 10 08:38:24 2019 -0500
+
+    Actualizando comprobante de ausencias
+
+[33mcommit feb75d0903a8c9dbb44d560bf12dcbfd89a73120[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 31 10:31:42 2018 -0600
+
+    Actualizando regla para fondo de solidaridad pensional
+
+[33mcommit 7343d577ba796e9ce7a79463f7e631c89a280cfd[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 28 18:04:37 2018 -0500
+
+    Cambios para reglas salariales nómina colombia (incluye reestructuración de métodos para bono14 y aguinaldo
+
+[33mcommit 90665652c042bc20f83d7c9b1a9902985da36ecf[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 27 10:07:16 2018 -0500
+
+    Agregando valor de bonos a valor recibido en reporte libro de salarios
+
+[33mcommit 9875370ba49d3925eef42e695398a0dc5b93321c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 27 09:41:43 2018 -0500
+
+    Mejorando filtro para reporte libro de salarios
+
+[33mcommit a397f60d6c55a69eb0769110babb82458eac2eda[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 26 17:10:38 2018 -0500
+
+    Modificando búsqueda de nóminas para reporte libro de salarios
+
+[33mcommit dd8053f78e3f7fbb4a3d995029f118c036eaed29[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 26 16:29:05 2018 -0500
+
+    Nuevas versiones para reglas salariales de liquidación
+
+[33mcommit d451dc390b78fb9400497a282fd1efbae8b306d2[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 10:28:06 2018 -0500
+
+    Ocultando footer de reporte libro de salarios
+
+[33mcommit 17c8c70354b9cf518eed37423284df472fe6b023[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 09:52:57 2018 -0500
+
+    Adaptando nombres de meses a idioma seleccionado para libro de salarios
+
+[33mcommit 286ff2c9502e788bf2f5b402b0a1b89e7b47a4bf[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 09:25:59 2018 -0500
+
+    Cambiando forma de mostrar mes en reporte libro de salarios
+
+[33mcommit 0e70aac782c1dd52ab0cd08573a8778ab7c26a30[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 08:50:12 2018 -0500
+
+    Ahora se muestra aguinaldo y bono 14 en libro de salarios
+
+[33mcommit f5af904b73ef35aa1c1acf86d976c8cf03f22250[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 08:46:13 2018 -0500
+
+    Obteniendo de manera distinta las horas trabajadas
+
+[33mcommit e1a36be6ce742422c8140c526b79d06c26b6ff04[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 24 08:23:56 2018 -0500
+
+    Eliminando encabezado de reporte libro de salarios
+
+[33mcommit aa86c87ea8c6c31e9e56bb4f85e0260eeb9b1d28[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 21 14:58:50 2018 -0500
+
+    Activación campo x_isr desde contrato
+
+[33mcommit ec28c3c52bc38e63598ad1ea3a00f6aedc53b25a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 21 14:28:25 2018 -0500
+
+    Separación personalizaciones módulos Ausencias y Nómina
+
+[33mcommit c61e7fefc2204a7c5c5ef93bfda41a8db9ed4e63[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 20 10:56:18 2018 -0500
+
+    Reestructuración de estados de nóminas
+
+[33mcommit a9448fa3e7c621b67a49ca098c73a39410176823[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 19 18:43:09 2018 -0500
+
+    Reporte libro de salarios actualizado
+
+[33mcommit 9164fe992514cb862ea544fec292c8d4280de66b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 17 10:36:16 2018 -0500
+
+    Versión 1 job completo
+
+[33mcommit e2561fdf4f41929eac0655698e98479c7474a0ea[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 14 18:40:46 2018 -0500
+
+    Versión 1 job
+
+[33mcommit b2e7543c2e3c308b728549e7aefe565112338516[m
+Merge: aae1cfd ff4889b
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Dec 14 15:41:01 2018 -0600
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit aae1cfdea010c5efca06941c2d954e30a9cfd1a6[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Fri Dec 14 15:40:26 2018 -0600
+
+    Actualización de método para correo de vencimiento pasaporte
+
+[33mcommit ff4889b6d9a5e667d69a4aa1d8c633572c03854f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 14 10:52:46 2018 -0500
+
+    Ajustes regla de sumatoria de comisiones para bono14 y aguinaldo
+
+[33mcommit 4e49322fce3ddbbca558f9f41e3c55d99bfea43b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 13 16:19:33 2018 -0500
+
+    Cambio a fórmula bono 14 y aguinaldo
+
+[33mcommit c5389bf67012d6ec3182da5304aef8660f62a9a3[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 13 08:42:03 2018 -0500
+
+    Versión 3.1 reporte mintrab
+
+[33mcommit 2080ed7cd086c69c9ab5a3934ec0f2974cf0b69d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 12 18:00:00 2018 -0500
+
+    Versión 3 reporte mintrab
+
+[33mcommit 88fac1b9581f286016b5d47d0a4be41cd46d534a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 12 09:45:03 2018 -0500
+
+    Versión 2 reporte mintrab
+
+[33mcommit f3336e460f758e75afc4d01db62427d5fec753f1[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 18:05:37 2018 -0500
+
+    Versión 1 reporte mintrab
+
+[33mcommit 14634439f184cbd9a3211306c95f3dd155bbd6e3[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 16:46:02 2018 -0500
+
+    Archivos iniciales reporte empleador mintrab
+
+[33mcommit 15bb979b72e27313433d897577f2fbc5c791e9e5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 16:35:04 2018 -0500
+
+    Versión 2 reporte libro salarios
+
+[33mcommit 33bd0e1f3004386f6ad2f364fd9c259588c3c475[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 12:16:56 2018 -0500
+
+    Versión 1 reporte libro salarios
+
+[33mcommit bc743d936e1b0f13af909f01466edacbd1d884fb[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 11:28:07 2018 -0500
+
+    Agregando campo fecha hasta a formulario de reporte de ausencias desde empleados
+
+[33mcommit 294a90a4bfb58891a176154b495e972745fba5a5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 11 08:54:43 2018 -0500
+
+    Primera versión de reporte libro de salarios
+
+[33mcommit 489924ba49c2b5b87edfafdd706aca7391380da8[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Dec 7 11:49:34 2018 -0500
+
+    Calculando con utc user en nómina
+
+[33mcommit af8f9e6290e4ed4850526f9f9c504523888609a2[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 6 14:06:04 2018 -0500
+
+    Borrando función para job
+
+[33mcommit f3cc7fb2963fe34942abaa4415f68e5628cd3b6d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Dec 6 10:07:00 2018 -0500
+
+    Agregando sumatorias adicionales para cálculo de bono 14 y aguinaldo
+
+[33mcommit 68384373ee6faa1fab2cfb0f9b9d51e24d3a9c49[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 5 14:57:40 2018 -0500
+
+    Funciones auxiliares para sumar comisiones bono 14 y aguinaldo
+
+[33mcommit 21ebfd5814c26ef296f54253fceb26ba9329f76c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 5 09:54:24 2018 -0500
+
+    Agregando control de fecha fin de contrato para finalizar conteo días nómina - complemento
+
+[33mcommit 88079325fc20ed91e9c00161c5d6c8833325d14a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Dec 5 08:50:33 2018 -0500
+
+    Agregando control de fecha fin de contrato para finalizar conteo días nómina
+
+[33mcommit d79b59a2f2093bc0ee331bae0da7aa6df2bd8b11[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 4 17:17:00 2018 -0500
+
+    Actualización: novedad de inicio de contrato ahora obligatoria
+
+[33mcommit e58f9a8d6433848dba090351f55a6a1d5846e0a7[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Dec 4 16:25:24 2018 -0500
+
+    Actualización horario ahora obligatorio
+
+[33mcommit 2fc305ed3c7978f2c81f38edc63a7cf776e8fdab[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 3 16:38:23 2018 -0500
+
+    Filtro a  campo empleados
+
+[33mcommit 9b761f2792c79cdcef5a9298f59a05bc3233c03e[m
+Merge: 7f00647 25b4609
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 3 11:57:45 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 7f00647d051421a66680bc14f46edfbc5c28aa84[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 3 11:57:18 2018 -0500
+
+    Modificando vista lista contratos
+
+[33mcommit 6ab9703e8d0be65f414da7860ab27029f1fee8f1[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Dec 3 09:37:22 2018 -0500
+
+    Traduciendo textos quemados
+
+[33mcommit aec702830c75707f6f532cdc5855779745f33505[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 30 17:59:09 2018 -0500
+
+    Redondeando contador de horas en ausencias
+
+[33mcommit 25b46094e3c8f99b71b01107c178b528acc9ad2a[m
+Merge: 5066e85 aec7028
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Fri Nov 30 17:46:47 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 5066e8558ec9e6ce842d87bafed253cbd746c30a[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Fri Nov 30 17:46:15 2018 -0500
+
+    (oscar) Cambio de readonly en el campo tipo
+
+[33mcommit db7e5529e179338182dede7ee7743808350a09b5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 30 11:59:18 2018 -0500
+
+    Limpiando datos tiquet 741
+
+[33mcommit 81b848fe05e62ac397147d811420410911ccbbbc[m
+Merge: e03ea78 bffc675
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Wed Nov 28 16:51:07 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit bffc675a4c7350735cf3995664a7f0d037094297[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 28 18:00:58 2018 -0500
+
+    Actualizando vista tree contratos
+
+[33mcommit e03ea784d0ab5a7719342df26c129441d221d182[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Wed Nov 28 16:50:36 2018 -0500
+
+    (Oscar) Actualización de capacitaciones y creación de grupo de seguridad en EMPLEADOS
+
+[33mcommit 75f4f243a7c777b3ec527cfcfeed09de0e508adb[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 28 16:48:33 2018 -0500
+
+    Formateando vistas desprendibles nómina
+
+[33mcommit a0789bd93e5ca6158d011f44d5eec48816fa9cdc[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 28 10:37:08 2018 -0500
+
+    Cambio de la moneda en el desprendible de nómina, apunta ahora a la moneda del contrato
+
+[33mcommit 8dfe67c5146805dba62c462fdc49bb8405f7841d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 27 11:13:55 2018 -0500
+
+    Comentando actualización por meses 31 días hacia reglas salariales
+
+[33mcommit 3fba5ee35ce1a42a3ed5f6b6175379ddafb2ca29[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 27 11:08:00 2018 -0500
+
+    Solucionado problema desde nómina con fecha de inicio de contrato
+
+[33mcommit 70ec4f179542393ff672d609ee4ee95e35d02ac9[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 27 08:44:01 2018 -0500
+
+    Agregando fechas de creación y actualización a vista tree de procesamiento de nómina
+
+[33mcommit 07a9908f603b5257a1fff134c5f90a21a6d46d7d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Nov 26 16:29:08 2018 -0500
+
+    Cambios para usar solamente el contrato seleccionado desde nómina
+
+[33mcommit 5ffa844cb824935af093af525104bfb5b9db0484[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 23 15:37:45 2018 -0500
+
+    Modificaciones para cálculo de días en nómina
+
+[33mcommit 40b3a35691bc540ce3ad20084f77d9c4df70e840[m
+Merge: ac2fcd3 0a84ceb
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 14:35:49 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit ac2fcd3713acee284a577477770df8d3c423d667[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 14:35:27 2018 -0500
+
+    Otras correcciones a acciones de botón ausencias
+
+[33mcommit 0a84ceb06936b0ac69568353cea186b4140bcc67[m
+Merge: 5a6045e b2ec4ab
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Nov 22 12:20:36 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 5a6045e5e364063c25b39798e06c4deb1b19fdd3[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Nov 22 12:20:05 2018 -0500
+
+    (oscar) Mejoras a los modulos de capacitaciones y desempeño
+
+[33mcommit b2ec4ab43667ef0c87bbbdda25f98bac173bbe19[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 10:38:26 2018 -0500
+
+    Modificación a método aprobar en ausencia
+
+[33mcommit 085e5d7096612c3cd9746a985cde28422bda9c94[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 10:22:51 2018 -0500
+
+    Modificación a método
+
+[33mcommit 0fb4c9fa7f2e830e6a61b5719658a068d64c2843[m
+Merge: 381a63c 080e524
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 08:42:34 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 381a63c15d782f8243c7924e41c69c83e7b603bd[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 22 08:41:28 2018 -0500
+
+    Corrigiendo sobreescritura del método write
+
+[33mcommit 080e524a9351f3a1d12575c696dc2146374f4d3a[m
+Merge: 0feb38d 31279b5
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Wed Nov 21 17:09:57 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 0feb38d7bbedf265046557f0ed28214ded0ff0e1[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Wed Nov 21 17:09:28 2018 -0500
+
+    (Oscar) Actualización al módulo de capacitaciones tickets 672,678,679
+
+[33mcommit 31279b58fde3a91ba755fb9efed03781a9caa552[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 21 11:38:28 2018 -0500
+
+    Gestión de días calendario desde nómina
+
+[33mcommit 0d79957d3650aa3c51996b7fef6df5455ee0b01e[m
+Merge: 1014734 31fe118
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 20 08:38:51 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 101473409aa135e4989922bcdcf5e6b9e92cb95d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 20 08:38:13 2018 -0500
+
+    Ampliando accesos de nómina para definir perfiles de acceso
+
+[33mcommit 31fe1188059c3a9cf49ad4caf075231a68cd9017[m
+Merge: ee31c82 77226a7
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Mon Nov 19 17:16:05 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit ee31c824d6fe8dc1197e52a9e5428a2f0a612bef[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Mon Nov 19 17:14:09 2018 -0500
+
+    (Oscar) - Mejoras a desempeño y capacitaciones como archivar
+
+[33mcommit 77226a71a13faa796ec4e4b7693cb84709e5b9a6[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Nov 19 16:29:56 2018 -0500
+
+    Agregando cálculo de días calendario en ausencias
+
+[33mcommit 4f069ac25e7200ffbe4db71bf6a17804310c940f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 16 10:05:03 2018 -0500
+
+    Solucionando error en la definición de valor por defecto - No aplicaba a todas las solicitudes
+
+[33mcommit 4e84965e537a682afe03693e3b57538b3973ae3d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Nov 15 10:30:56 2018 -0500
+
+    Modificación Boleta de pago nómina
+
+[33mcommit 8fc464b7b71d934e5eea8ccd1d8f62ac7d8c0bbb[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 14 17:40:33 2018 -0500
+
+    Correcciones write contract
+
+[33mcommit 0748aa2effd958d249320e8538f5ba9aefadc367[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 14 16:25:56 2018 -0500
+
+    Agregando campos adicionales para cuenta bancaria y reescritura del método write
+
+[33mcommit 38942230a3860f2028219708d780e8ead0d9811f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Nov 14 15:05:50 2018 -0500
+
+    Creando módulo para personalizar contratos
+
+[33mcommit a08188be3a848dd6dc1957117b7020a144f7e773[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 13 12:42:47 2018 -0500
+
+    Corrección recolección de feriados en 2 años diferentes
+
+[33mcommit 542500f73a50b83ae2fffe68ba7c7f07a65896c6[m
+Merge: e785b61 b153da9
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 13 10:43:43 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit e785b6135e53b459aa8bbd861dd9b032521294e3[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 13 10:43:28 2018 -0500
+
+    Corrección fechas de regreso
+
+[33mcommit b153da991fc9b5cf0d870266b931570e11e5d517[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Fri Nov 9 15:13:15 2018 -0500
+
+    (oscar) quitar el botón rechazar de ausencias en la etapa aprobada
+
+[33mcommit 6c448f55a6331189645e6505ae1ab2f64a203d8c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 9 10:35:31 2018 -0500
+
+    Generación comprobante de ausencia
+
+[33mcommit eddf59585d2c84f20bd699c7652d3bdf39c404ba[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 9 08:23:36 2018 -0500
+
+    Agregando campo cuenta bancaria en el contrato
+
+[33mcommit 76eb8e1ea9d42ea72292f544dc419103a163c040[m
+Merge: 1e75ee3 6c448f5
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Nov 8 07:03:55 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 1e75ee36a0256245f8ae18558e9c0dc56d6ee15f[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Nov 8 07:03:13 2018 -0500
+
+    (Oscar) mejoras en el modulo de gestión de capacitaciones
+
+[33mcommit 55ed38a7c84bf1f900639b95fe9df3b0838102d9[m
+Merge: 170303f 11a2d8d
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 6 16:56:49 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 170303f997037fa7deaf9778b1d4cbc4f63aea86[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 6 16:56:26 2018 -0500
+
+    Conteo correcto de ausencias desde nómina
+
+[33mcommit 11a2d8dfbd0fa7ba48f19addc44d933d62a62477[m
+Merge: 4daf844 9708a76
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Nov 6 12:08:29 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 4daf844bfb50a6cf2d985cdad5669a847db72bc9[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Nov 6 12:07:54 2018 -0500
+
+    (Oscar) - Actualización del modulo de ciberc_performance
+
+[33mcommit 9708a7618c5c1e7c79ecba80df4dc5df71a5c0ae[m
+Merge: 100c719 16a5589
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 6 10:44:11 2018 -0600
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 100c7195405b60f75cb6ebb00825bea181e84dcd[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Nov 6 10:43:26 2018 -0600
+
+    Ocultando agregar partners a las reuniones
+
+[33mcommit 16a5589c37b8179393603a5db16218afdac4e016[m
+Merge: 2e03917 40b278c
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Nov 6 09:50:45 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 2e03917efc2201a64e94cc5b768034b4e0fd3633[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Nov 6 09:50:20 2018 -0500
+
+    (oscar) Actualización campo date
+
+[33mcommit 40b278ce0bdfc5a3b1db5ca0c5a9b10def841098[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 2 09:21:44 2018 -0500
+
+    Agregando permisos para escritura ampliado
+
+[33mcommit 80db372ad5330dcf54d3730a6a176fb602b7648d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Nov 2 09:01:30 2018 -0500
+
+    Ajuste para día actual en ausencias
+
+[33mcommit c71538ec64825638c56a3808d314683c103c9091[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 31 16:46:49 2018 -0500
+
+    Agregando horas por defecto
+
+[33mcommit 252ee273bce7c31b9924b46010717d4efece33bd[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 31 16:16:30 2018 -0500
+
+    Mostrando comentarios
+
+[33mcommit 268e34573963f68d871e27d3a8da987074f7da35[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 30 16:29:49 2018 -0500
+
+    Uniendo las definiciones de horarios en empleado y en contrato
+
+[33mcommit 8461410b7d798019b49dd3ca39883c35e8be1cda[m
+Merge: dd184af aa3d6e3
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 30 11:32:58 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit dd184af67c8faa0c3ebcd85e3b3d7fa29547992c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 30 11:08:02 2018 -0500
+
+    Actualizando atributos de tipo de selección en ausencia y reorganizando vista
+
+[33mcommit aa3d6e31333b47ade2bc7e419b91e80f3133a9a6[m
+Merge: cff9705 ea35394
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Oct 30 09:50:14 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit cff970567f2cd254b3ed2275fd460535ae32b10c[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Oct 30 09:49:49 2018 -0500
+
+    (Oscar) - Correción al modulo de capacitaciones en uno de los read-only
+
+[33mcommit ea353944b6b4aee493dfa33d8856e05fe3d1dbf0[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 29 10:33:28 2018 -0500
+
+    Controlando coutas de préstamos
+
+[33mcommit 496d05622298aa388fa896f7a58eea5ea2135214[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 26 17:25:53 2018 -0500
+
+    Fecha de regreso
+
+[33mcommit ba6657d506a378a43e6b3731b9f585bbd58f1e95[m
+Merge: dbab9be 1c177ff
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 26 10:08:12 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit dbab9be448b40c71c322158cfdb2759eb462cf6e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 26 10:07:26 2018 -0500
+
+    Campo compañía para los festivos (sólo creación en el modelo)
+
+[33mcommit ec1cecf57f099ae6fbb40b231d494e897c1221b6[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 26 09:56:00 2018 -0500
+
+    Duración de las ausencias con horas y zonas horarias, aplicando sábados, domingos y festivos
+
+[33mcommit 1c177ffcf140040cc65389d871675ac470e8a0f7[m
+Merge: 394a6aa 47e7265
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Oct 25 19:01:46 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 394a6aa808bde79787b336c227444e87cddd9943[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Oct 25 19:01:19 2018 -0500
+
+    (oscar) - Mejoras al modulo de desempeño - boton de carga de objetivos
+
+[33mcommit 47e7265ca3e740287cf4c5961b056245ac56d253[m
+Merge: 98275d2 dab06de
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Oct 25 13:34:45 2018 -0600
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 98275d2b2c91ef0db56e5e80d080a675cf83d26d[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Oct 25 13:34:30 2018 -0600
+
+    (Oscar) carpetas que estaban en DEV sin tracking
+
+[33mcommit dab06de466103c6c8954f92a1f420aa134d575db[m
+Merge: 1652433 013cbae
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Oct 25 14:30:00 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 165243363947cf6ad53883707b8bee55e8b0467a[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Thu Oct 25 14:29:32 2018 -0500
+
+    (Oscar) - Mejoras a los modulos de performance y knowledge
+
+[33mcommit 5eb4ea56fcbecf729d6e62553c84e1c330b3d6c0[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 24 12:12:29 2018 -0500
+
+    Descontando fines de semana
+
+[33mcommit 013cbaede225eeaf97deef5440289a5d0094e18f[m
+Merge: 554081c e77644d
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 23 11:30:19 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 554081c1770f646af4c7c2db0bb258368d6010e8[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 23 11:22:17 2018 -0500
+
+    Exploración método para cálculo de días en ausencia
+
+[33mcommit e77644decf079b8bc8ac108b3728c8e8a09e4fb0[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Oct 23 09:25:47 2018 -0500
+
+    (Oscar) - Modificación a los templates de correo para que tengan el mensaje de PRUEBAS
+
+[33mcommit 85053af909ef1ef8417e85740b459a4ee6db36c4[m
+Merge: b9266fd 596c75d
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Mon Oct 22 15:29:05 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 596c75dce09c1667c168949820a1c7ffd1d1c1a8[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Mon Oct 22 15:35:33 2018 -0600
+
+    Agregando configuración de es aprobador? para los botones
+
+[33mcommit 88f7217076b2a5a7fa00a0a03005a25d27468f32[m
+Author: Carolina Hernández <chernandez@alltic.co>
+Date:   Mon Oct 22 14:48:21 2018 -0600
+
+    Envío de correos para enviar y aplazar solicitudes
+
+[33mcommit b9266fdc2fe985cade22aa7c66c787b62223ceb9[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Mon Oct 22 15:28:16 2018 -0500
+
+    (Oscar) - (version 2)  Implementación del modulo de capacitaciones 99% y evaluaciones de desempeño 80%
+
+[33mcommit 9a697fb31d47247136529fa2be08feb1bc18a89b[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Mon Oct 22 15:25:32 2018 -0500
+
+    (Oscar) - Implementación del modulo de capacitaciones 99% y evaluaciones de desempeño 80%
+
+[33mcommit 402603611ad062154f426f18d753281e04443395[m
+Merge: 20d2417 f51ef8d
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 22 15:18:25 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 20d2417dcca700ae07d9e46ac31a89d60c4c1f97[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 22 15:18:14 2018 -0500
+
+    Cambio de nombres de plantillas por usabilidad
+
+[33mcommit f51ef8d0bb13eff3960508edfaafcf4f23299949[m
+Author: root <root@Develop.ciberc.com>
+Date:   Mon Oct 22 14:15:34 2018 -0600
+
+    Correo para aprobación de solicitud de ausencias
+
+[33mcommit 5a4d4f6cdcf86f91783ffc53074cd7d09c8f7b03[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 22 14:26:11 2018 -0500
+
+    Adicicón de otras plantillas
+
+[33mcommit d922d18c95d209ac1b063cef43a5f0e2f7798c1a[m
+Author: root <root@Develop.ciberc.com>
+Date:   Mon Oct 22 10:49:37 2018 -0600
+
+    Envío de correo con plantilla propia al rechazar solicitud
+
+[33mcommit 6caaa28e28094bda214f5e736a59821925c0a7f5[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 22 09:19:23 2018 -0500
+
+    Reordenando modificaciones de vistas para usuario administrador
+
+[33mcommit badc00249fed75135928e78e4e772dc9f2fc81fb[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 19 16:57:15 2018 -0500
+
+    Agregado estado solicitud Aplazada (sin modificar otros estados)
+
+[33mcommit 598f1a43ae6142cf2d720f55ac9fda8465c2692f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 19 16:29:19 2018 -0500
+
+    Ocultando campo
+
+[33mcommit 903a57e312cd9e354498958c86a6825a37b281f0[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 19 16:22:37 2018 -0500
+
+    Restaurando campo oculto
+
+[33mcommit 9899c912f8ffb0e33f484ab9e674cbf9e536dfcf[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 19 12:12:18 2018 -0500
+
+    Agregando plantillas para correos
+
+[33mcommit 5485adcf32b7d53decd1a2861d0d929fb9b85ccd[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 17 08:42:50 2018 -0500
+
+    Reorganizando formulario de tipos de ausencia
+
+[33mcommit 76fdef5d6dbf6dbc72bd324b7434959e0c59d48a[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 16 12:04:04 2018 -0500
+
+    Módulo vencimiento de festivos / asignaciones
+
+[33mcommit 37981d5a834b68ae53b0680b576b5467ea0d65b0[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 16 11:55:13 2018 -0500
+
+    Módulo hr_employee_holidays
+
+[33mcommit 971eb7d843cf71f1fdc6740354583b3b75d3c0ff[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 16 11:53:53 2018 -0500
+
+    Módulo hr_contract_accessibility
+
+[33mcommit c7f5e74ba6229d63185193e987503410da24d0bc[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 16 11:27:39 2018 -0500
+
+    Reorganizando los cambios a vistas
+
+[33mcommit 5d9ca31df94bca691a789390d6db283a309cd55e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 16 11:27:01 2018 -0500
+
+    Ajustes para facilitar cambios a notas
+
+[33mcommit b47c147726edc4c7d67513e55a17457c154a53df[m
+Author: root <root@Develop.ciberc.com>
+Date:   Fri Oct 12 15:45:04 2018 -0600
+
+    Borrando zips de módulos ya instalados
+
+[33mcommit e5783b1059aaf0ae18524561b749bd489fe27f2f[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Oct 12 16:24:24 2018 -0500
+
+    Módulo (modificado) para creación de festivos
+
+[33mcommit 3da68bc4348e64ff06c4cc75253f6fff0a62f80b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 10 14:56:20 2018 -0500
+
+    Cambio de código requerido por python a requerido por view
+
+[33mcommit 9aaac05750e14f5873c1636216f13b9f3e6c5635[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 10 14:20:43 2018 -0500
+
+    Incluyendo máscara al código de tipos de ausencia para reglas salariales
+
+[33mcommit 2d76c0cd559cfaf65e688940cc016fade758912b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Oct 10 08:31:29 2018 -0500
+
+    Ajustes en vistas: evitando write, reajustando grupos administradores, definición de readonly y definición de employee_id según grupos de acceso
+
+[33mcommit 457d1be4237d42873fa8016df36fda143429fcbc[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 9 11:35:34 2018 -0500
+
+    Reestableciendo unión marital de echo
+
+[33mcommit 9b085e20b60fef9e7a3c895410642ad79a9f773a[m
+Merge: d7bbd4d 9af6f90
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Oct 9 08:59:42 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit d7bbd4d1847461abdda65a33d3b96b39db51b9d9[m
+Author: Oscar Rengifo <oscarrengifo089@gmail.com>
+Date:   Tue Oct 9 08:58:22 2018 -0500
+
+    (Oscar)- Modulos de capacitaciones y evaluaciones de desempeño
+
+[33mcommit 9af6f90621488252822bb90bd78a755b89658fc2[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 8 17:48:30 2018 -0500
+
+    Nuevo campo en contrato para días anuales de vacaciones
+
+[33mcommit 632df315b5f6488a94e04b5d27ad841e3b14da41[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 8 17:06:54 2018 -0500
+
+    Código en tipo de ausencia - para reglas salariales
+
+[33mcommit ae985da3188a733199705540f83adca16f9cd614[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 8 16:14:21 2018 -0500
+
+    Módulo para ocultar tipos según etiqueta de empleado
+
+[33mcommit 757e5483dc605ca08a9e220ef2d544b18ddcce6e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Oct 8 16:13:42 2018 -0500
+
+    Reordenamiento de vistas en ausencias
+
+[33mcommit e855206ff8aef823f22922b3d34d6bf7f54be20e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Oct 4 09:21:12 2018 -0500
+
+    eliminando módulo de terceros sin uso
+
+[33mcommit 24d51e7017ff589f8079a08fb41703aeda0a514e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Oct 4 09:17:59 2018 -0500
+
+    Ajustes a vistas base ausencias
+
+[33mcommit bd4902232271e3fd548419a9f30087285ee18a6e[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 2 12:10:53 2018 -0500
+
+    Creando menú propio inicial para tipos de ausencias
+
+[33mcommit ed996ad0a335fc4e8c0f41be481c251bf1fe4f8d[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Oct 2 11:18:49 2018 -0500
+
+    Reorganizando menus de ausencias
+
+[33mcommit 22ebabeb01377f900591e8efc9146e2bebc41f12[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Sep 28 08:28:02 2018 -0500
+
+    Cambios de nombres de etapas vacantes y bolsa de empleo en proceso de selección
+
+[33mcommit d578d114cef2c628b16276622d0ae49a79a8bc97[m
+Merge: 7f9e58c 41050c8
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Sep 21 11:14:45 2018 -0500
+
+    Resolviendo merge
+
+[33mcommit 7f9e58cfaac6b01e5f057aec0f2b27987074c3ac[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Sep 21 11:10:53 2018 -0500
+
+    Restricción en partes de horas
+
+[33mcommit 41050c8ceb5e82d7bfdcdb76539a907cf2949387[m
+Author: Jaime Martinez <jamrx115@gmail.com>
+Date:   Fri Sep 21 10:24:49 2018 -0500
+
+    (Oscar) se agrega el readonly con condición para proyectos/tareas
+
+[33mcommit 25c018edbc637157b3ae17891d89a8a0aa26b48e[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Sep 20 07:45:56 2018 -0600
+
+    (oscar) agrega el modulo de website control access
+
+[33mcommit 3dc6f5b576e703b443fd226249b911fb354ce174[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Sep 19 15:48:22 2018 -0600
+
+    Cambio de nombre vacantes activas por vacantes en verificación de etapas
+
+[33mcommit 349aa94af0c77d1bc949c73889de0180326b330c[m
+Merge: 9b673f0 2ee5c10
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Sep 17 14:14:37 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 2ee5c10a34a5cfae18ab846540ace3a9a167fa12[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Sep 17 08:26:57 2018 -0600
+
+    (Oscar) Cambio en la franja superior de odoo a blanco
+
+[33mcommit 7a50c059f89da4d5fcb9ea1e0bbd0c4d142913f5[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Sep 11 07:30:14 2018 -0600
+
+    ya no se sobreescriben los números móvilo de trabajo ni personal al cambiar de sede
+
+[33mcommit 9b673f0be73928e6579ae0b39937f7f62c98db3b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Sep 10 17:35:43 2018 -0500
+
+    modificando reporte pdf de ausencias
+
+[33mcommit 737e50c95efd47549ecdcf97fc56f47e9d366d6b[m
+Merge: 2df5277 3c21114
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Sep 6 12:10:26 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit 3c21114000db0fa5a197f81de754f48f1aedaedc[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Sep 6 11:06:52 2018 -0600
+
+    (Oscar) - Se eliminaron los zip de addons que ocupaban espacio en disco
+
+[33mcommit 2df5277575bc35d82ce03f4358af4f315e846d70[m
+Merge: 752318a e780f51
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Sep 6 11:57:56 2018 -0500
+
+    Solución merge de paso a producción con primeros cambios de siguiente versión (correlativo de puestos de trabajo)
+
+[33mcommit e780f519b3830458ac9dbbcc02868ae209ccded4[m
+Merge: ca249da 95c0962
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Sep 6 10:46:19 2018 -0600
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit ca249da9c194919877c8577eec84ccf0ee031b81[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Sep 6 10:46:01 2018 -0600
+
+    Nuevo módulo de auditoría
+
+[33mcommit 95c0962ec03ee1e4cbe0165d1238e9b2e33ac3ae[m
+Merge: 12b64b6 239115f
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Sep 6 10:40:11 2018 -0600
+
+    (Oscar) - Solución de merge
+
+[33mcommit 12b64b67064f612273c8b466e46ef279947abc04[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Thu Sep 6 10:28:46 2018 -0600
+
+    (Oscar) - Cambios realizados para hacer aparecer campos de hr.employee para usuarios (empleado)
+
+[33mcommit 239115f58d4c57c768dd8e0284cf53f5968b0b5e[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Sep 4 13:55:13 2018 -0600
+
+    Separación de imágenes en relación  empleado-usuario
+
+[33mcommit 1f4a096f3aa3afca382e2b2a2cbc3e02fef8f76b[m
+Author: Carolina Hernández <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Sep 3 17:18:00 2018 -0600
+
+    Eliminación de sobreescritura de correo de trabajo
+
+[33mcommit 752318ada39666a4e59b7fff3482849873137c88[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Aug 29 14:28:51 2018 -0500
+
+    Nueva Secuencia para Puestos de Trabajo
+
+[33mcommit 4bf4ae6a74a3bc5cb2eb961e2b26bbb4a5511d3b[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Aug 24 18:15:02 2018 -0500
+
+    Deshaciendo cambios x_code
+
+[33mcommit f8270eaccca9524675c94d8c4b70546641b69efd[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Aug 24 12:00:36 2018 -0500
+
+    Redefinición de code en empleado para eliminar x_code (modifica estructura de base de datos)
+
+[33mcommit afce8073a25f159402dd865029f05000344556dc[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Aug 22 11:47:03 2018 -0500
+
+    Nuevo grupo oficial administrador (no modifica base de datos)
+
+[33mcommit 70afd66f8e9db7d533ab4c8c19bcd96670399c33[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Aug 21 09:29:17 2018 -0500
+
+    Modificado work_email vacío al crear un empleado (no modifica la estructura de la base de datos)
+
+[33mcommit d7a7cfb69c08a6139d3fcd4286dc9c9a2238ae85[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Aug 16 14:57:32 2018 -0500
+
+    Agregado archivo git ignore
+
+[33mcommit a5bb1614fd479b5d7f827aff47cdee34ec6ed7f1[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Aug 16 09:10:53 2018 -0500
+
+    Creación grupo solicitantes
+
+[33mcommit bdd89bb4889123e172949d7ba171d14c115e3ae3[m
+Author: jmartinez <jmartinez@alltic.co>
+Date:   Wed Aug 15 09:26:53 2018 -0600
+
+    (Oscar) Se realiza el cambio del favicon en Odoo
+
+[33mcommit 168c3e2e290f894bd45d1cc24cfcdb6c66e6362f[m
+Merge: eddfeea cfda812
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Aug 14 17:31:15 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit eddfeea6bc0cfb9547bfe6713822ec69ca71a6e4[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Tue Aug 14 17:31:02 2018 -0500
+
+    Ocultando mensaje predefinido de ayuda para las acciones
+
+[33mcommit cfda812aca36475ff9e96cfa629e6adc115e0ee1[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Wed Aug 8 17:04:49 2018 -0600
+
+    (Oscar) se realiza el cambio del campo select (reclutamiento en progreso)
+
+[33mcommit 88406fc44f0cb2bf34529a282ad75359a2c521fe[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Fri Aug 3 16:06:05 2018 -0600
+
+    (Oscar) Cambie el parametro many2one del campo x_interest_country de reclutamiento
+
+[33mcommit 10627b9adc76d04239d53b0e29fbaafd6cc91562[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Fri Aug 3 10:24:04 2018 -0600
+
+    Se modifica codigo para que almacene el campo SCORE en la base de datos
+
+[33mcommit de6763a41d38dc585f22858868820853182f77bf[m
+Merge: 4c89753 a941588
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Fri Aug 3 09:53:08 2018 -0600
+
+    Correccion division por 0
+
+[33mcommit 4c89753f8b7b0ef1342c916204c15dfea67f4d8e[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Fri Aug 3 08:44:24 2018 -0600
+
+    Correccion division por 0
+
+[33mcommit a941588ed1ed7fad0fb4f66291b6f7eb023f8853[m
+Author: jamrx115 <jamrx115@gmail.com>
+Date:   Fri Aug 3 08:44:24 2018 -0600
+
+    Correccion error divicion por 0 Modulo entrenamiento(at_evaluation)
+
+[33mcommit b9c5a742492379d6261e81f9a1645ea0b17c115c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Jul 30 10:53:11 2018 -0500
+
+    Modificación al límite a mostrar para las vistas BI
+
+[33mcommit 54ee6e039a26a83b98b99c2796c8320e81f9620c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Mon Jul 30 09:35:21 2018 -0500
+
+    Redistribución código módulo alltic
+
+[33mcommit bf95d4fce3c372c1ed85cc43fb3a1fbae33e6160[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Jul 27 18:14:41 2018 -0500
+
+    campo score ya almacenado en la base de datos en at_evaluation_result (nueva columna)
+
+[33mcommit 71cf0aeae9210ada556c7f09b27113afad940055[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Jul 27 16:16:43 2018 -0500
+
+    Creación (cambio de estado) en solicitudes
+
+[33mcommit 59629e761dcf89f16c466f09658cccd36bb4424c[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Fri Jul 27 15:24:36 2018 -0500
+
+    Modificación cambio de estado en solicitudes
+
+[33mcommit ed11f626491681f873d95ad0ce5555c613d8e964[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jul 26 14:01:59 2018 -0500
+
+    Cambios de Etiquetas de campos de empleados
+
+[33mcommit a0a4d984b0ce79f4f7264e9c4e06cfcce10fb814[m
+Merge: e7d378d 45e5671
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jul 26 10:42:54 2018 -0500
+
+    Merge branch 'master' of https://github.com/jamrx115/addons
+
+[33mcommit e7d378d779013181aa1779c79ca7b6084636dd98[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jul 26 10:41:41 2018 -0500
+
+    Agregando comentarios
+
+[33mcommit 45e567198c0cac2507ae82a742eb431069673d3b[m
+Author: jmartinez <jmartinez@alltic.co>
+Date:   Thu Jul 26 09:17:04 2018 -0600
+
+    Actualiza capos personalizados
+
+[33mcommit 72077c076f624c9efe25a8f047a5ff8de62a3383[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Thu Jul 26 08:39:29 2018 -0500
+
+    Agregada la opción unión marital de hecho (unión libre)
+
+[33mcommit 5ee7a1a8f5c37a68555ccb168941fba8c1189203[m
+Author: Diana Carolina Hernandez <diana.hernandez.abahonza@correounivalle.edu.co>
+Date:   Wed Jul 25 16:36:46 2018 -0500
+
+    Creado país de interés en candidatura (Crea columna en base de datos
